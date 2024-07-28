@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Example_RelayCommand", "WPF_Example_RelayCommand\WPF_Example_RelayCommand.csproj", "{0FB533F8-99E0-4E11-BD1D-BA29491566CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB533F8-99E0-4E11-BD1D-BA29491566CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB533F8-99E0-4E11-BD1D-BA29491566CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB533F8-99E0-4E11-BD1D-BA29491566CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB533F8-99E0-4E11-BD1D-BA29491566CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023EE233-A78F-4A4C-A292-1BC1F4649D46}
+	EndGlobalSection
+EndGlobal
